@@ -1,4 +1,4 @@
-# Meu Investimento
+# Meu_Investimento
 
 Uma biblioteca Python para cálculos de investimentos.
 
