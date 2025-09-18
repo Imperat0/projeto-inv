@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="meu_investimento",
-    version="0.2",
+    version="0.4",
     packages=find_packages(),
     install_requires=[],
     author="Daniel Imperato",
