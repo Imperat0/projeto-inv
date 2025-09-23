@@ -8,7 +8,7 @@ setup(
     author="Daniel Imperato",
     author_email="imperato06@gmail.com",
     description="Uma biblioteca para cálculos de investimentos.",
-    url="https://github.com/Imperat0/meu-investimento",
+    url="https://github.com/Imperat0/projeto-inv",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
